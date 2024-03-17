@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func main () {
+func hw() {
 	fmt.Println("Hello, world!")
 }
