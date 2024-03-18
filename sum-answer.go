@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func sum1() {
+func main() {
 	var b int
 	a := 1
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func welcome() {
+func main() {
 	var name string
 
 	fmt.Println("What's your name? ")
