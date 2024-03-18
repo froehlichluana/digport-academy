@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func sumanswer() {
 	var b int
 	a := 1
 
